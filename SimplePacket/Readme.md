@@ -5,4 +5,4 @@ This library provides an easy and simple protocol for two Arduino's communicatin
 To install, place the SimplePacket directory under your Arduino libraries folder. This is usually under ~\Documents\Arduino\libraries. Then restart the IDE.
 
 ### Usage
-Please see the Examples to find out how to use the library.
+Please see the Examples directory to find out how to use the library.
